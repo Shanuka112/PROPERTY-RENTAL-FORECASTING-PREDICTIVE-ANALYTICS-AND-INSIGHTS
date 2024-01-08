@@ -13,9 +13,9 @@ Specializing in rental property market analysis, our focus lies in employing dat
 
 
 ## Expected Outcome:
-**Data-Driven Insights:**
+1.**Data-Driven Insights:**
 Detailed insights derived from predictive analytics aiding in understanding rental market dynamics.
-**Feature Importance Highlight:**
+2.**Feature Importance Highlight:**
 Identification and highlighting of crucial factors impacting rental rates, facilitating informed decision-making for stakeholders.
-**Visualized Analysis Results:**
+3.**Visualized Analysis Results:**
 Clear and informative visualizations showcasing rental market trends and patterns.
